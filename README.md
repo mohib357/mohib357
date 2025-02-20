@@ -1,26 +1,26 @@
-<a href="https://web.facebook.com/profile.php?id=100033961412449">
-<img src="https://github.com/AbuRaihan32/AbuRaihan32/blob/main/Banner.png" />
+<a href="https://www.facebook.com/mohib357/">
+<img src="https://github.com/mohib357/mohib357/blob/main/Banner.png" />
 </a>
 
 
 <h5 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+A.R.+MAHFUJ....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+ Muhibbullah....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h5>
 
 ## :eyes: Current overview
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aburaihan32&label=Profile%20views&color=0e75b6&style=flat" alt="aburaihan32" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohib357&label=Profile%20views&color=0e75b6&style=flat" alt="mohib357" /> </p>
 
 
 <img align='right' alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-### 🔭 I’m currently - working on [Biddyanoy](https://biddyanoy.vercel.app)
-### 🌱 I’m exploring - **typescript, mongoose, redux, next.js.**
+<!-- ### 🔭 I’m currently - working on [Biddyanoy](https://biddyanoy.vercel.app) -->
+### 🌱 I’m exploring - **HTML, CSS, TailwindCSS, JavaScript.**
 ### 👯 I’m looking - To collaborate on open source projects. 
 ### 🤔 I’m trying - To help people learn web development. 
 ### ⚡ Fun fact - I enjoy coding and I speak 4 languages.
-### 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ksm6mvqTFF17FkazUM8JHiAPW4Lu7nHt/view?usp=sharing)
+<!-- ### 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ksm6mvqTFF17FkazUM8JHiAPW4Lu7nHt/view?usp=sharing) -->
 
 <br/>
 
@@ -28,7 +28,7 @@
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbuRaihan32&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="AbuRaihan32"/>
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohib357&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="mohib357"/>
 </p>
 
 
@@ -74,8 +74,8 @@
 <br/>
 
 <div align="center">
-<p><img height="150" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aburaihan32&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="aburaihan32" /></p>
+<p><img height="150" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohib357&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="mohib357" /></p>
 
-<p><img height="150" align="right" src="https://github-readme-stats.vercel.app/api?username=aburaihan32&show_icons=true&locale=en&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="aburaihan32" /></p>
+<p><img height="150" align="right" src="https://github-readme-stats.vercel.app/api?username=mohib357&show_icons=true&locale=en&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="mohib357" /></p>
 </div>
 
