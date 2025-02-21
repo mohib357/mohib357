@@ -1,5 +1,5 @@
 <a href="https://www.facebook.com/mohib357/">
-<img src="https://github.com/mohib357/mohib357/blob/main/banner2.png" border="1px solid red"/>
+<img src="https://github.com/mohib357/mohib357/blob/main/banner2.png"/>
 </a>
 
 
