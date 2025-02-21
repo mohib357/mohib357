@@ -1,10 +1,5 @@
 <a href="https://www.facebook.com/mohib357/">
-    <svg width="100%" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-        <clipPath id="rounded">
-            <rect x="0" y="0" width="100" height="100" rx="10" ry="10"/>
-        </clipPath>
-        <image x="0" y="0" width="100" height="100" xlink:href="https://github.com/mohib357/mohib357/blob/main/banner2.png" clip-path="url(#rounded)"/>
-    </svg>
+    <img src="https://raw.githubusercontent.com/mohib357/mohib357/main/banner2.png" style="border-radius: 15px;" width="100%" alt="Banner">
 </a>
 
 
